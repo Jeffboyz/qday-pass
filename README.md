@@ -5,6 +5,16 @@ Developer Fest (QoreChain Association).
 
 **Status:** Submitted to Build Before Q-Day (QoreChain) on 25 Nov 2026 — public project page: https://build.qorechain.io/p/qday-pass-hybrid-counter-pq-checker
 
+## Festival verification
+
+The Build Before Q-Day fest site verified the following from this project's on-chain addresses:
+
+- Hybrid ML-DSA-87 transactions — VERIFIED
+- EVM window (incl. scoped) — VERIFIED
+- PQC key registration — VERIFIED
+- AI-Native build — VERIFIED
+  
+
 **The idea in one sentence:** a small Counter dApp on the QoreChain
 testnet whose deployment is authorised by a *hybrid post-quantum
 transaction* — one transaction signed with **two keys at once**, a
