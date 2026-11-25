@@ -3,6 +3,8 @@
 A **Quantum Pass** entry for **Build Before Q-Day**, the QoreChain
 Developer Fest (QoreChain Association).
 
+**Status:* Submitted to Build Before Q-Day (QoreChain) on 25 Nov 2026 — public project page: https://build.qorechain.io/p/qday-pass-hybrid-counter-pq-checker
+
 **The idea in one sentence:** a small Counter dApp on the QoreChain
 testnet whose deployment is authorised by a *hybrid post-quantum
 transaction* — one transaction signed with **two keys at once**, a
