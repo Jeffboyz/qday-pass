@@ -29,6 +29,7 @@
     "@nomicfoundation/hardhat-viem-assertions": "^3.1.5",
     "@nomicfoundation/ignition-core": "^3.1.11",
     "@types/node": "^22.7.5",
+    "create-qorechain-dapp": "^0.14.0",
     "hardhat": "^3.21.1",
     "tsx": "^4.19.0",
     "typescript": "^5.6.3",
